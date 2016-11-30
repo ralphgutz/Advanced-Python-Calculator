@@ -1,5 +1,6 @@
-# ADVANCED MATH CALCULATOR #
-#   by Raphael Gutierrez   #          
+# ADVANCED MATH CALCULATOR v1
+# by Raphael Gutierrez (fb.com/raphael.gutierrez.17)
+# Licensed under MIT (https://github.com/ralphgutz/Advanced-Python-Calculator/blob/master/LICENSE)
 
 # I wrote the codes using my basic Python knowledge to easily understand the codes.
 
