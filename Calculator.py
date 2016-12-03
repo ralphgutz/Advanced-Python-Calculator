@@ -1,4 +1,4 @@
-# ADVANCED MATH CALCULATOR v1
+# ADVANCED MATH CALCULATOR v1.4
 # by Raphael Gutierrez (fb.com/raphael.gutierrez.17)
 # Licensed under MIT (https://github.com/ralphgutz/Advanced-Python-Calculator/blob/master/LICENSE)
 
@@ -380,22 +380,22 @@ def constants():
 
 	if oper_input == "1":
 		print("*" * 40)
-		print("\nYou've chosen the LOGARITHM OF GAMMA FUNC.!\n")
+		print("\nYou've chosen the PI NUMBER!\n")
 		print("  Answer: ", math.pi)
 
 	elif oper_input == "2":
 		print("*" * 40)
-		print("\nYou've chosen the LOGARITHM OF GAMMA FUNC.!\n")
+		print("\nYou've chosen the EULER'S NUMBER!\n")
 		print("  Answer: ", math.e)
 
 	elif oper_input == "3":
 		print("*" * 40)
-		print("\nYou've chosen the LOGARITHM OF GAMMA FUNC.!\n")
+		print("\nYou've chosen the INFINITY CONSTANT!\n")
 		print("  Answer: ", math.inf)
 
 	elif oper_input == "4":
 		print("*" * 40)
-		print("\nYou've chosen the LOGARITHM OF GAMMA FUNC.!\n")
+		print("\nYou've chosen the NOT A NUMBER CONSTANT!\n")
 		print("  Answer: ", math.nan)
 
 	else:
